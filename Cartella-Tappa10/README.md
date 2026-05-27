@@ -40,5 +40,8 @@ Riporto di seguito un video di tutta la tappa completa con utilizzo di tutti i c
 
 Purtroppo il file .gif che mostra il progetto completo occupa troppo, di conseguenza non mi è stato possibile pubblicarlo. Invito a visionare la tappa 10 per visionarlo nella sua interezza completa.
 
+Nel caso si fosse riuscita a scaricare correttamente, mettere il file .gif all'interno della cartella **Cartella-Tappa10** per poter visionare correttamente la gif qua sotto:
+
+![Animazione Sistema Solare](tappa10.gif)
 
 
