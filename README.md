@@ -26,7 +26,7 @@ Dopo il completamento della compilazione bisogna seguire i seguenti passaggi, pa
 
 ```bash
 
-# Spostarsi all'interno della cartella Debug che contiene i file eseguibili
+# Spostarsi all'interno della cartella Debug che contiene i file eseguibili (nel caso questa non venga creata, spostarsi al passo successivo senza uscire dalla cartella build)
 cd Debug
 
 # Per verificare il funzionamento corretto dei file eseguibili utilizzare il comando
